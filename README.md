@@ -14,6 +14,8 @@ Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
 
 Sources used:
+=============
+
 functions to send responses:
 https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/open
 https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/setRequestHeader
